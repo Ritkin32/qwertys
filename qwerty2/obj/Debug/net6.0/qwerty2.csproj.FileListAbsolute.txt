@@ -1,0 +1,15 @@
+C:\repozit\exzamp\qwerty\qwerty2\bin\Debug\net6.0\qwerty2.exe
+C:\repozit\exzamp\qwerty\qwerty2\bin\Debug\net6.0\qwerty2.deps.json
+C:\repozit\exzamp\qwerty\qwerty2\bin\Debug\net6.0\qwerty2.runtimeconfig.json
+C:\repozit\exzamp\qwerty\qwerty2\bin\Debug\net6.0\qwerty2.dll
+C:\repozit\exzamp\qwerty\qwerty2\bin\Debug\net6.0\qwerty2.pdb
+C:\repozit\exzamp\qwerty\qwerty2\obj\Debug\net6.0\qwerty2.csproj.AssemblyReference.cache
+C:\repozit\exzamp\qwerty\qwerty2\obj\Debug\net6.0\qwerty2.GeneratedMSBuildEditorConfig.editorconfig
+C:\repozit\exzamp\qwerty\qwerty2\obj\Debug\net6.0\qwerty2.AssemblyInfoInputs.cache
+C:\repozit\exzamp\qwerty\qwerty2\obj\Debug\net6.0\qwerty2.AssemblyInfo.cs
+C:\repozit\exzamp\qwerty\qwerty2\obj\Debug\net6.0\qwerty2.csproj.CoreCompileInputs.cache
+C:\repozit\exzamp\qwerty\qwerty2\obj\Debug\net6.0\qwerty2.dll
+C:\repozit\exzamp\qwerty\qwerty2\obj\Debug\net6.0\refint\qwerty2.dll
+C:\repozit\exzamp\qwerty\qwerty2\obj\Debug\net6.0\qwerty2.pdb
+C:\repozit\exzamp\qwerty\qwerty2\obj\Debug\net6.0\qwerty2.genruntimeconfig.cache
+C:\repozit\exzamp\qwerty\qwerty2\obj\Debug\net6.0\ref\qwerty2.dll
