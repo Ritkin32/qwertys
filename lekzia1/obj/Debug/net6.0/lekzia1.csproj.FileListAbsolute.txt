@@ -1,0 +1,15 @@
+C:\repozit\exzamp\qwerty\lekzia1\bin\Debug\net6.0\lekzia1.exe
+C:\repozit\exzamp\qwerty\lekzia1\bin\Debug\net6.0\lekzia1.deps.json
+C:\repozit\exzamp\qwerty\lekzia1\bin\Debug\net6.0\lekzia1.runtimeconfig.json
+C:\repozit\exzamp\qwerty\lekzia1\bin\Debug\net6.0\lekzia1.dll
+C:\repozit\exzamp\qwerty\lekzia1\bin\Debug\net6.0\lekzia1.pdb
+C:\repozit\exzamp\qwerty\lekzia1\obj\Debug\net6.0\lekzia1.csproj.AssemblyReference.cache
+C:\repozit\exzamp\qwerty\lekzia1\obj\Debug\net6.0\lekzia1.GeneratedMSBuildEditorConfig.editorconfig
+C:\repozit\exzamp\qwerty\lekzia1\obj\Debug\net6.0\lekzia1.AssemblyInfoInputs.cache
+C:\repozit\exzamp\qwerty\lekzia1\obj\Debug\net6.0\lekzia1.AssemblyInfo.cs
+C:\repozit\exzamp\qwerty\lekzia1\obj\Debug\net6.0\lekzia1.csproj.CoreCompileInputs.cache
+C:\repozit\exzamp\qwerty\lekzia1\obj\Debug\net6.0\lekzia1.dll
+C:\repozit\exzamp\qwerty\lekzia1\obj\Debug\net6.0\refint\lekzia1.dll
+C:\repozit\exzamp\qwerty\lekzia1\obj\Debug\net6.0\lekzia1.pdb
+C:\repozit\exzamp\qwerty\lekzia1\obj\Debug\net6.0\lekzia1.genruntimeconfig.cache
+C:\repozit\exzamp\qwerty\lekzia1\obj\Debug\net6.0\ref\lekzia1.dll
