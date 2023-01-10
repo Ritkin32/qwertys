@@ -1,0 +1,15 @@
+C:\repozit\exzamp\qwerty\qaszx\obj\Debug\net6.0\qaszx.csproj.AssemblyReference.cache
+C:\repozit\exzamp\qwerty\qaszx\obj\Debug\net6.0\qaszx.GeneratedMSBuildEditorConfig.editorconfig
+C:\repozit\exzamp\qwerty\qaszx\obj\Debug\net6.0\qaszx.AssemblyInfoInputs.cache
+C:\repozit\exzamp\qwerty\qaszx\obj\Debug\net6.0\qaszx.AssemblyInfo.cs
+C:\repozit\exzamp\qwerty\qaszx\obj\Debug\net6.0\qaszx.csproj.CoreCompileInputs.cache
+C:\repozit\exzamp\qwerty\qaszx\bin\Debug\net6.0\qaszx.exe
+C:\repozit\exzamp\qwerty\qaszx\bin\Debug\net6.0\qaszx.deps.json
+C:\repozit\exzamp\qwerty\qaszx\bin\Debug\net6.0\qaszx.runtimeconfig.json
+C:\repozit\exzamp\qwerty\qaszx\bin\Debug\net6.0\qaszx.dll
+C:\repozit\exzamp\qwerty\qaszx\bin\Debug\net6.0\qaszx.pdb
+C:\repozit\exzamp\qwerty\qaszx\obj\Debug\net6.0\qaszx.dll
+C:\repozit\exzamp\qwerty\qaszx\obj\Debug\net6.0\refint\qaszx.dll
+C:\repozit\exzamp\qwerty\qaszx\obj\Debug\net6.0\qaszx.pdb
+C:\repozit\exzamp\qwerty\qaszx\obj\Debug\net6.0\qaszx.genruntimeconfig.cache
+C:\repozit\exzamp\qwerty\qaszx\obj\Debug\net6.0\ref\qaszx.dll

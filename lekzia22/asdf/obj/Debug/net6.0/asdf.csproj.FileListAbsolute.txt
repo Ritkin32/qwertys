@@ -1,0 +1,5 @@
+C:\repozit\exzamp\qwerty\lekzia22\asdf\obj\Debug\net6.0\asdf.csproj.AssemblyReference.cache
+C:\repozit\exzamp\qwerty\lekzia22\asdf\obj\Debug\net6.0\asdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\repozit\exzamp\qwerty\lekzia22\asdf\obj\Debug\net6.0\asdf.AssemblyInfoInputs.cache
+C:\repozit\exzamp\qwerty\lekzia22\asdf\obj\Debug\net6.0\asdf.AssemblyInfo.cs
+C:\repozit\exzamp\qwerty\lekzia22\asdf\obj\Debug\net6.0\asdf.csproj.CoreCompileInputs.cache
